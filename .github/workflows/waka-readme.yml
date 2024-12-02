@@ -15,4 +15,3 @@ jobs:
           TIME_RANGE: all_time
           IGNORED_LANGUAGES: Markdown
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          LANG_COUNT: 6
