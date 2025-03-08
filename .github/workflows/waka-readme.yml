@@ -16,5 +16,5 @@ jobs:
           TIME_RANGE: all_time
           LANG_COUNT: 8
           SHOW_TOTAL: true
-          IGNORED_LANGUAGES: Markdown, Blade Template
+          IGNORED_LANGUAGES: Markdown Blade
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
